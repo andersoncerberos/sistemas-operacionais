@@ -57,6 +57,3 @@ def main():
     
     print("Todas as threads finalizadas. Programa encerrado.")
 
-# Verifica se este script está sendo executado diretamente
-if __name__ == "__main__":
-    main()
